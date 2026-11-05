@@ -23,7 +23,7 @@ Puedes visitar [GitHub](https://github.com/) para consultar más información.
 
 ## Imagen del proyecto
 
-![Imagen del proyecto](/home/alumno-7k/Documentos/Ralf/proyecto.png)
+![Imagen del proyecto](./Imagen.png)
 
 ## Ejemplo de código
 
